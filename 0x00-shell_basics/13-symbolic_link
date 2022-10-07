@@ -1,0 +1,2 @@
+12-file_type
+ln -s /bin/ls __ls__
